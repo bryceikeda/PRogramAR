@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26d1971330998c0459b41638ca284c07, type: 3}
+  m_Name: TriggerExpressionTree
+  m_EditorClassIdentifier: 
+  expressionNodes:
+  - expressionNodeName: Default
+    expressionNames:
+    - If
+    nextExpressionNodes:
+    - Objects
+    expressionIconName:
+    - None
+  - expressionNodeName: Operators
+    expressionNames:
+    - And
+    - Or
+    nextExpressionNodes:
+    - Objects
+    - Objects
+    expressionIconName:
+    - None
+    - None
+  - expressionNodeName: Objects
+    expressionNames:
+    - any box
+    - no boxes
+    - Box 1
+    - Box 2
+    - Box 3
+    - Box 4
+    nextExpressionNodes:
+    - AnyBoxStates
+    - NoBoxStates
+    - States
+    - States
+    - States
+    - States
+    expressionIconName:
+    - GroupObject
+    - DependencyRemove
+    - Product
+    - Product
+    - Product
+    - Product
+  - expressionNodeName: States
+    expressionNames:
+    - is in
+    - is not in
+    nextExpressionNodes:
+    - Zones
+    - Zones
+    expressionIconName:
+    - Subscribe
+    - Unsubscribe
+  - expressionNodeName: Zones
+    expressionNames: []
+    nextExpressionNodes: []
+    expressionIconName: []
+  - expressionNodeName: NoBoxStates
+    expressionNames:
+    - are in
+    nextExpressionNodes:
+    - Zones
+    expressionIconName:
+    - Subscribe
+  - expressionNodeName: AnyBoxStates
+    expressionNames:
+    - is in
+    - is not in
+    nextExpressionNodes:
+    - Zones
+    - Zones
+    expressionIconName:
+    - Subscribe
+    - Unsubscribe

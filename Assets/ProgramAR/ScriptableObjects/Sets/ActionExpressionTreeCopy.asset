@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26d1971330998c0459b41638ca284c07, type: 3}
+  m_Name: ActionExpressionTreeCopy
+  m_EditorClassIdentifier: 
+  expressionNodes:
+  - expressionNodeName: Default
+    expressionNames:
+    - Then
+    nextExpressionNodes:
+    - Action
+  - expressionNodeName: Operators
+    expressionNames:
+    - And
+    nextExpressionNodes:
+    - Action
+  - expressionNodeName: Action
+    expressionNames:
+    - move
+    nextExpressionNodes:
+    - Objects
+  - expressionNodeName: Objects
+    expressionNames:
+    - Box 1
+    - Box 2
+    - Box 3
+    - Box 4
+    nextExpressionNodes:
+    - Position
+    - Position
+    - Position
+    - Position
+  - expressionNodeName: Position
+    expressionNames:
+    - inside
+    nextExpressionNodes:
+    - Zones
+  - expressionNodeName: Zones
+    expressionNames: []
+    nextExpressionNodes: []
+  - expressionNodeName: ZonesSubGroup
+    expressionNames: []
+    nextExpressionNodes: []

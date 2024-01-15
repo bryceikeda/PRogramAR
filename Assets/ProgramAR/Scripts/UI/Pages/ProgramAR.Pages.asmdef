@@ -1,0 +1,30 @@
+{
+    "name": "ProgramAR.Pages",
+    "rootNamespace": "ProgramAR.Pages",
+    "references": [
+        "GUID:6681c024acf62894f971fb3451295e68",
+        "GUID:8b7cc3e86d77403b8b984c08cbaeaf8f",
+        "GUID:7404ed9ad29ad3844ac3a261c8d45b60",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:213f1b1b141d676428f53bc80a852ffd",
+        "GUID:cd50ac1d8d80fdf44b83911ad1220960",
+        "GUID:cc09b6fe4ad1bda4d975af185e94a7b8",
+        "GUID:a7a4c34601384f9389d5c4207f3c6331",
+        "GUID:d36344c130766c74f9b42100193fe9cb",
+        "GUID:625bfc588fb96c74696858f2c467e978",
+        "GUID:ba58c43074cf72549aa2ac5937dae44b",
+        "GUID:5db6cbfd5d0e86a46862a70f4b4067f2",
+        "GUID:b1ef917f7a8a86a4eb639ec2352edbf8",
+        "GUID:a36e677f7dacc6646b460b2c6468f48f",
+        "GUID:92ccbbb3cce68964f8832bf74f02f3e8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

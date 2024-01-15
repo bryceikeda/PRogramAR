@@ -1,0 +1,19 @@
+{
+    "name": "ProgramAR.NumberPad",
+    "rootNamespace": "ProgramAR.NumberPad",
+    "references": [
+        "GUID:6681c024acf62894f971fb3451295e68",
+        "GUID:8b7cc3e86d77403b8b984c08cbaeaf8f",
+        "GUID:7404ed9ad29ad3844ac3a261c8d45b60",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

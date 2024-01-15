@@ -1,0 +1,636 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7bd1319ec2d2964cbf83603a2f4bc19, type: 3}
+  m_Name: ZonePropertyList
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: zoneProperties
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[System.ValueTuple`2[[System.String,
+        mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]], mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 16
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Red
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.7607843
+    - Name: 
+      Entry: 4
+      Data: 0.211764708
+    - Name: 
+      Entry: 4
+      Data: 0.08627451
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Blue
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0.5921569
+    - Name: 
+      Entry: 4
+      Data: 0.9019608
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Yellow
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.882352948
+    - Name: 
+      Entry: 4
+      Data: 0.694117665
+    - Name: 
+      Entry: 4
+      Data: 0.172549024
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Green
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.266666681
+    - Name: 
+      Entry: 4
+      Data: 0.7411765
+    - Name: 
+      Entry: 4
+      Data: 0.196078435
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Purple
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.549019635
+    - Name: 
+      Entry: 4
+      Data: 0.478431374
+    - Name: 
+      Entry: 4
+      Data: 0.9019608
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 6
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Pink
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0.847058833
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 7
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Grey
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.2509804
+    - Name: 
+      Entry: 4
+      Data: 0.4509804
+    - Name: 
+      Entry: 4
+      Data: 0.619607866
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 8
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Brown
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.5803922
+    - Name: 
+      Entry: 4
+      Data: 0.349019617
+    - Name: 
+      Entry: 4
+      Data: 0.09803922
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 9
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Red
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.7607843
+    - Name: 
+      Entry: 4
+      Data: 0.211764708
+    - Name: 
+      Entry: 4
+      Data: 0.08627451
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 10
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Blue
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0.5921569
+    - Name: 
+      Entry: 4
+      Data: 0.9019608
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 11
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Yellow
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.882352948
+    - Name: 
+      Entry: 4
+      Data: 0.694117665
+    - Name: 
+      Entry: 4
+      Data: 0.172549024
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 12
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Green
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.266666681
+    - Name: 
+      Entry: 4
+      Data: 0.7411765
+    - Name: 
+      Entry: 4
+      Data: 0.196078435
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 13
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Purple
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.549019635
+    - Name: 
+      Entry: 4
+      Data: 0.478431374
+    - Name: 
+      Entry: 4
+      Data: 0.9019608
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 14
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Pink
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0.847058833
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 15
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Grey
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.2509804
+    - Name: 
+      Entry: 4
+      Data: 0.4509804
+    - Name: 
+      Entry: 4
+      Data: 0.619607866
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 16
+    - Name: $v
+      Entry: 7
+      Data: System.ValueTuple`2[[System.String, mscorlib],[UnityEngine.Color, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: Item1
+      Entry: 1
+      Data: Brown
+    - Name: Item2
+      Entry: 7
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0.5803922
+    - Name: 
+      Entry: 4
+      Data: 0.349019617
+    - Name: 
+      Entry: 4
+      Data: 0.09803922
+    - Name: 
+      Entry: 4
+      Data: 0.698039234
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  DeveloperDescription: A list of the zone colors and color names for each zone index

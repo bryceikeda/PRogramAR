@@ -1,0 +1,14 @@
+{
+    "name": "ProgramAR.Commands",
+    "rootNamespace": "ProgramAR.Commands",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

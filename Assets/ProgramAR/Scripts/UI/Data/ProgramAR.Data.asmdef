@@ -1,0 +1,18 @@
+{
+    "name": "ProgramAR.Data",
+    "rootNamespace": "ProgramAR.Data",
+    "references": [
+        "GUID:1a473fa2d9888234bb02823c2f38eb18",
+        "GUID:213f1b1b141d676428f53bc80a852ffd",
+        "GUID:cc09b6fe4ad1bda4d975af185e94a7b8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

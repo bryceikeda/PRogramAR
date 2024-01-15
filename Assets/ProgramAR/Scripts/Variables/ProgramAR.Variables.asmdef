@@ -1,0 +1,16 @@
+{
+    "name": "ProgramAR.Variables",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a36e677f7dacc6646b460b2c6468f48f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
