@@ -4,9 +4,9 @@ This project provides reviewers with a simulation of our system PRogramAR. Users
 
 # Requirements #
 To run our program reviewers will need to have the following.
-ROS Noetic
-Unity 2020.3.38f1
-git downloaded on windows
+* ROS Noetic
+* Unity 2020.3.38f1
+* git downloaded on windows
 
 # Setting up ROS #
 Setup and run the ROS portion of PRogramAR using the following repository: https://github.com/hri-ironlab/fetch_mtc/tree/PRogramAR
